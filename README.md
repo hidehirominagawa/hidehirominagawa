@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hidehirominagawa
-- 👀 I’m interested in ...小林旭、クレイジーキャッツ、Getting Any(movie)
-- 🌱 I’m currently learning ...AWS IoT（ML, Greengrass, ESP32, FreeRTOS etc.）
-- 💞️ I’m looking to collaborate on ...AWS IoT
-- 📫 How to reach me ...
+- 👀 I’m interested in ... AI/IoT
+- 🌱 I’m currently learning ... AI/IoT
+- 💞️ I’m looking to collaborate on ... AI/IoT
 
 <!---
 hidehirominagawa/hidehirominagawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
